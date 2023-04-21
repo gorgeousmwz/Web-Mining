@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2023-04-21">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Abdar, M" label="Abdar, M" />
+      <node id="Acharya, UR" label="Acharya, UR" />
+      <node id="Ahmed, U" label="Ahmed, U" />
+      <node id="Antonijevic, B" label="Antonijevic, B" />
+      <node id="Baralic, K" label="Baralic, K" />
+      <node id="Belhadi, A" label="Belhadi, A" />
+      <node id="Bulat, Z" label="Bulat, Z" />
+      <node id="Cai, JH" label="Cai, JH" />
+      <node id="Chao, HC" label="Chao, HC" />
+      <node id="Chen, HM" label="Chen, HM" />
+      <node id="Chen, W" label="Chen, W" />
+      <node id="Chen, WP" label="Chen, WP" />
+      <node id="Cheng, XQ" label="Cheng, XQ" />
+      <node id="Chowdhuri, I" label="Chowdhuri, I" />
+      <node id="Chung, K" label="Chung, K" />
+      <node id="Cuadros-Rodriguez, L" label="Cuadros-Rodriguez, L" />
+      <node id="Curcic, M" label="Curcic, M" />
+      <node id="Dashevsky, I" label="Dashevsky, I" />
+      <node id="Djenouri, D" label="Djenouri, D" />
+      <node id="Djenouri, Y" label="Djenouri, Y" />
+      <node id="Djordjevic, AB" label="Djordjevic, AB" />
+      <node id="Dukic-Cosic, D" label="Dukic-Cosic, D" />
+      <node id="Fournier-Viger, P" label="Fournier-Viger, P" />
+      <node id="Gan, WS" label="Gan, WS" />
+      <node id="Green, A" label="Green, A" />
+      <node id="Haut, JM" label="Haut, JM" />
+      <node id="Hosomi, K" label="Hosomi, K" />
+      <node id="Jasinski, M" label="Jasinski, M" />
+      <node id="Jimenez-Carvelo, AM" label="Jimenez-Carvelo, AM" />
+      <node id="Kariminejad, N" label="Kariminejad, N" />
+      <node id="Kawaguchi, T" label="Kawaguchi, T" />
+      <node id="Khosravi, K" label="Khosravi, K" />
+      <node id="Kim, H" label="Kim, H" />
+      <node id="Kim, JC" label="Kim, JC" />
+      <node id="Lei, JS" label="Lei, JS" />
+      <node id="Leonowicz, Z" label="Leonowicz, Z" />
+      <node id="Li, TR" label="Li, TR" />
+      <node id="Li, TT" label="Li, TT" />
+      <node id="Li, W" label="Li, W" />
+      <node id="Li, XL" label="Li, XL" />
+      <node id="Lin, JCW" label="Lin, JCW" />
+      <node id="Lin, WC" label="Lin, WC" />
+      <node id="Ma, CC" label="Ma, CC" />
+      <node id="Maro, JC" label="Maro, JC" />
+      <node id="Metzler, M" label="Metzler, M" />
+      <node id="Miljakovic, EA" label="Miljakovic, EA" />
+      <node id="Nelson, DR" label="Nelson, DR" />
+      <node id="Nguyen, LTT" label="Nguyen, LTT" />
+      <node id="Nguyen, TDD" label="Nguyen, TDD" />
+      <node id="Nie, FP" label="Nie, FP" />
+      <node id="Osorio, EV" label="Osorio, EV" />
+      <node id="Pal, SC" label="Pal, SC" />
+      <node id="Paoletti, ME" label="Paoletti, ME" />
+      <node id="Pham, BT" label="Pham, BT" />
+      <node id="Plawiak, P" label="Plawiak, P" />
+      <node id="Plaza, A" label="Plaza, A" />
+      <node id="Pourghasemi, HR" label="Pourghasemi, HR" />
+      <node id="Qiu, L" label="Qiu, L" />
+      <node id="Rauh, M" label="Rauh, M" />
+      <node id="Ryu, T" label="Ryu, T" />
+      <node id="Saha, A" label="Saha, A" />
+      <node id="Shahabi, H" label="Shahabi, H" />
+      <node id="Shirzadi, A" label="Shirzadi, A" />
+      <node id="Sitnov, MI" label="Sitnov, MI" />
+      <node id="Srivastava, G" label="Srivastava, G" />
+      <node id="Stephens, GK" label="Stephens, GK" />
+      <node id="Syed, K" label="Syed, K" />
+      <node id="Takada, M" label="Takada, M" />
+      <node id="Tao, R" label="Tao, R" />
+      <node id="Tiefenbacher, JP" label="Tiefenbacher, JP" />
+      <node id="Torimura, T" label="Torimura, T" />
+      <node id="Tsai, CF" label="Tsai, CF" />
+      <node id="Tsyganenko, NA" label="Tsyganenko, NA" />
+      <node id="Vo, B" label="Vo, B" />
+      <node id="Wang, DC" label="Wang, DC" />
+      <node id="Wu, J" label="Wu, J" />
+      <node id="Wu, JMT" label="Wu, JMT" />
+      <node id="Yang, HF" label="Yang, HF" />
+      <node id="Yokoyama, S" label="Yokoyama, S" />
+      <node id="Yoo, H" label="Yoo, H" />
+      <node id="Yoon, E" label="Yoon, E" />
+      <node id="Yu, L" label="Yu, L" />
+      <node id="Yu, PS" label="Yu, PS" />
+      <node id="Yun, U" label="Yun, U" />
+      <node id="Zhang, CB" label="Zhang, CB" />
+      <node id="Zhang, MM" label="Zhang, MM" />
+      <node id="Zhao, Y" label="Zhao, Y" />
+      <node id="Zhou, WJ" label="Zhou, WJ" />
+      <node id="Zierk, J" label="Zierk, J" />
+      <node id="Zivancevic, K" label="Zivancevic, K" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Abdar, M" target="Acharya, UR" weight="12" />
+      <edge id="1" source="Abdar, M" target="Plawiak, P" weight="8" />
+      <edge id="2" source="Acharya, UR" target="Plawiak, P" weight="7" />
+      <edge id="3" source="Ahmed, U" target="Lin, JCW" weight="8" />
+      <edge id="4" source="Ahmed, U" target="Srivastava, G" weight="8" />
+      <edge id="5" source="Antonijevic, B" target="Dukic-Cosic, D" weight="10" />
+      <edge id="6" source="Antonijevic, B" target="Bulat, Z" weight="8" />
+      <edge id="7" source="Antonijevic, B" target="Zivancevic, K" weight="9" />
+      <edge id="8" source="Antonijevic, B" target="Miljakovic, EA" weight="7" />
+      <edge id="9" source="Antonijevic, B" target="Djordjevic, AB" weight="9" />
+      <edge id="10" source="Antonijevic, B" target="Curcic, M" weight="9" />
+      <edge id="11" source="Antonijevic, B" target="Baralic, K" weight="10" />
+      <edge id="12" source="Baralic, K" target="Dukic-Cosic, D" weight="11" />
+      <edge id="13" source="Baralic, K" target="Bulat, Z" weight="8" />
+      <edge id="14" source="Baralic, K" target="Zivancevic, K" weight="10" />
+      <edge id="15" source="Baralic, K" target="Miljakovic, EA" weight="7" />
+      <edge id="16" source="Baralic, K" target="Djordjevic, AB" weight="10" />
+      <edge id="17" source="Baralic, K" target="Curcic, M" weight="10" />
+      <edge id="18" source="Belhadi, A" target="Lin, JCW" weight="7" />
+      <edge id="19" source="Belhadi, A" target="Djenouri, Y" weight="7" />
+      <edge id="20" source="Bulat, Z" target="Dukic-Cosic, D" weight="8" />
+      <edge id="21" source="Bulat, Z" target="Zivancevic, K" weight="7" />
+      <edge id="22" source="Bulat, Z" target="Djordjevic, AB" weight="7" />
+      <edge id="23" source="Bulat, Z" target="Curcic, M" weight="8" />
+      <edge id="24" source="Cai, JH" target="Yang, HF" weight="7" />
+      <edge id="25" source="Chao, HC" target="Gan, WS" weight="7" />
+      <edge id="26" source="Chen, HM" target="Li, TR" weight="7" />
+      <edge id="27" source="Chen, W" target="Shahabi, H" weight="8" />
+      <edge id="28" source="Chen, W" target="Shirzadi, A" weight="7" />
+      <edge id="29" source="Chen, WP" target="Syed, K" weight="7" />
+      <edge id="30" source="Cheng, XQ" target="Wang, DC" weight="7" />
+      <edge id="31" source="Cheng, XQ" target="Qiu, L" weight="10" />
+      <edge id="32" source="Cheng, XQ" target="Ma, CC" weight="7" />
+      <edge id="33" source="Chowdhuri, I" target="Pal, SC" weight="7" />
+      <edge id="34" source="Chung, K" target="Kim, JC" weight="7" />
+      <edge id="35" source="Chung, K" target="Yoo, H" weight="7" />
+      <edge id="36" source="Cuadros-Rodriguez, L" target="Jimenez-Carvelo, AM" weight="7" />
+      <edge id="37" source="Curcic, M" target="Dukic-Cosic, D" weight="9" />
+      <edge id="38" source="Curcic, M" target="Zivancevic, K" weight="8" />
+      <edge id="39" source="Curcic, M" target="Djordjevic, AB" weight="9" />
+      <edge id="40" source="Dashevsky, I" target="Maro, JC" weight="7" />
+      <edge id="41" source="Djenouri, D" target="Djenouri, Y" weight="7" />
+      <edge id="42" source="Djenouri, D" target="Lin, JCW" weight="7" />
+      <edge id="43" source="Djenouri, Y" target="Lin, JCW" weight="20" />
+      <edge id="44" source="Djenouri, Y" target="Srivastava, G" weight="8" />
+      <edge id="45" source="Djordjevic, AB" target="Dukic-Cosic, D" weight="9" />
+      <edge id="46" source="Djordjevic, AB" target="Zivancevic, K" weight="8" />
+      <edge id="47" source="Djordjevic, AB" target="Miljakovic, EA" weight="7" />
+      <edge id="48" source="Dukic-Cosic, D" target="Zivancevic, K" weight="10" />
+      <edge id="49" source="Dukic-Cosic, D" target="Miljakovic, EA" weight="7" />
+      <edge id="50" source="Fournier-Viger, P" target="Lin, JCW" weight="17" />
+      <edge id="51" source="Fournier-Viger, P" target="Yun, U" weight="8" />
+      <edge id="52" source="Gan, WS" target="Yu, PS" weight="7" />
+      <edge id="53" source="Green, A" target="Osorio, EV" weight="7" />
+      <edge id="54" source="Haut, JM" target="Plaza, A" weight="7" />
+      <edge id="55" source="Haut, JM" target="Paoletti, ME" weight="7" />
+      <edge id="56" source="Hosomi, K" target="Yokoyama, S" weight="8" />
+      <edge id="57" source="Hosomi, K" target="Takada, M" weight="8" />
+      <edge id="58" source="Jasinski, M" target="Leonowicz, Z" weight="7" />
+      <edge id="59" source="Kariminejad, N" target="Pourghasemi, HR" weight="7" />
+      <edge id="60" source="Kawaguchi, T" target="Torimura, T" weight="8" />
+      <edge id="61" source="Khosravi, K" target="Pham, BT" weight="7" />
+      <edge id="62" source="Kim, H" target="Yun, U" weight="8" />
+      <edge id="63" source="Kim, H" target="Ryu, T" weight="7" />
+      <edge id="64" source="Kim, H" target="Lin, JCW" weight="7" />
+      <edge id="65" source="Lei, JS" target="Yu, L" weight="7" />
+      <edge id="66" source="Lei, JS" target="Zhou, WJ" weight="8" />
+      <edge id="67" source="Li, TT" target="Zhang, CB" weight="8" />
+      <edge id="68" source="Li, TT" target="Zhao, Y" weight="8" />
+      <edge id="69" source="Li, W" target="Zhang, MM" weight="8" />
+      <edge id="70" source="Li, W" target="Tao, R" weight="7" />
+      <edge id="71" source="Li, XL" target="Nie, FP" weight="7" />
+      <edge id="72" source="Lin, JCW" target="Wu, JMT" weight="11" />
+      <edge id="73" source="Lin, JCW" target="Srivastava, G" weight="19" />
+      <edge id="74" source="Lin, JCW" target="Yun, U" weight="16" />
+      <edge id="75" source="Lin, JCW" target="Yu, PS" weight="7" />
+      <edge id="76" source="Lin, WC" target="Tsai, CF" weight="11" />
+      <edge id="77" source="Ma, CC" target="Qiu, L" weight="9" />
+      <edge id="78" source="Metzler, M" target="Rauh, M" weight="7" />
+      <edge id="79" source="Metzler, M" target="Zierk, J" weight="7" />
+      <edge id="80" source="Miljakovic, EA" target="Zivancevic, K" weight="7" />
+      <edge id="81" source="Nelson, DR" target="Syed, K" weight="7" />
+      <edge id="82" source="Nguyen, LTT" target="Vo, B" weight="19" />
+      <edge id="83" source="Nguyen, LTT" target="Nguyen, TDD" weight="9" />
+      <edge id="84" source="Nguyen, TDD" target="Vo, B" weight="9" />
+      <edge id="85" source="Pal, SC" target="Saha, A" weight="7" />
+      <edge id="86" source="Pourghasemi, HR" target="Tiefenbacher, JP" weight="8" />
+      <edge id="87" source="Qiu, L" target="Wang, DC" weight="8" />
+      <edge id="88" source="Qiu, L" target="Wu, J" weight="7" />
+      <edge id="89" source="Rauh, M" target="Zierk, J" weight="7" />
+      <edge id="90" source="Ryu, T" target="Yun, U" weight="7" />
+      <edge id="91" source="Shahabi, H" target="Shirzadi, A" weight="11" />
+      <edge id="92" source="Sitnov, MI" target="Tsyganenko, NA" weight="8" />
+      <edge id="93" source="Sitnov, MI" target="Stephens, GK" weight="8" />
+      <edge id="94" source="Srivastava, G" target="Wu, JMT" weight="7" />
+      <edge id="95" source="Stephens, GK" target="Tsyganenko, NA" weight="7" />
+      <edge id="96" source="Takada, M" target="Yokoyama, S" weight="8" />
+      <edge id="97" source="Vo, B" target="Yun, U" weight="13" />
+      <edge id="98" source="Yoon, E" target="Yun, U" weight="8" />
+      <edge id="99" source="Yu, L" target="Zhou, WJ" weight="7" />
+      <edge id="100" source="Zhang, CB" target="Zhao, Y" weight="8" />
+    </edges>
+  </graph>
+</gexf>

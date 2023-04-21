@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2023-04-21">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Abdar, M" label="Abdar, M" />
+      <node id="Acharya, UR" label="Acharya, UR" />
+      <node id="Antonijevic, B" label="Antonijevic, B" />
+      <node id="Baralic, K" label="Baralic, K" />
+      <node id="Cheng, XQ" label="Cheng, XQ" />
+      <node id="Curcic, M" label="Curcic, M" />
+      <node id="Djenouri, Y" label="Djenouri, Y" />
+      <node id="Djordjevic, AB" label="Djordjevic, AB" />
+      <node id="Dukic-Cosic, D" label="Dukic-Cosic, D" />
+      <node id="Fournier-Viger, P" label="Fournier-Viger, P" />
+      <node id="Lin, JCW" label="Lin, JCW" />
+      <node id="Lin, WC" label="Lin, WC" />
+      <node id="Ma, CC" label="Ma, CC" />
+      <node id="Nguyen, LTT" label="Nguyen, LTT" />
+      <node id="Nguyen, TDD" label="Nguyen, TDD" />
+      <node id="Qiu, L" label="Qiu, L" />
+      <node id="Shahabi, H" label="Shahabi, H" />
+      <node id="Shirzadi, A" label="Shirzadi, A" />
+      <node id="Srivastava, G" label="Srivastava, G" />
+      <node id="Tsai, CF" label="Tsai, CF" />
+      <node id="Vo, B" label="Vo, B" />
+      <node id="Wu, JMT" label="Wu, JMT" />
+      <node id="Yun, U" label="Yun, U" />
+      <node id="Zivancevic, K" label="Zivancevic, K" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Abdar, M" target="Acharya, UR" weight="12" />
+      <edge id="1" source="Antonijevic, B" target="Curcic, M" weight="9" />
+      <edge id="2" source="Antonijevic, B" target="Dukic-Cosic, D" weight="10" />
+      <edge id="3" source="Antonijevic, B" target="Baralic, K" weight="10" />
+      <edge id="4" source="Antonijevic, B" target="Zivancevic, K" weight="9" />
+      <edge id="5" source="Antonijevic, B" target="Djordjevic, AB" weight="9" />
+      <edge id="6" source="Baralic, K" target="Curcic, M" weight="10" />
+      <edge id="7" source="Baralic, K" target="Dukic-Cosic, D" weight="11" />
+      <edge id="8" source="Baralic, K" target="Zivancevic, K" weight="10" />
+      <edge id="9" source="Baralic, K" target="Djordjevic, AB" weight="10" />
+      <edge id="10" source="Cheng, XQ" target="Qiu, L" weight="10" />
+      <edge id="11" source="Curcic, M" target="Dukic-Cosic, D" weight="9" />
+      <edge id="12" source="Curcic, M" target="Djordjevic, AB" weight="9" />
+      <edge id="13" source="Djenouri, Y" target="Lin, JCW" weight="20" />
+      <edge id="14" source="Djordjevic, AB" target="Dukic-Cosic, D" weight="9" />
+      <edge id="15" source="Dukic-Cosic, D" target="Zivancevic, K" weight="10" />
+      <edge id="16" source="Fournier-Viger, P" target="Lin, JCW" weight="17" />
+      <edge id="17" source="Lin, JCW" target="Srivastava, G" weight="19" />
+      <edge id="18" source="Lin, JCW" target="Wu, JMT" weight="11" />
+      <edge id="19" source="Lin, JCW" target="Yun, U" weight="16" />
+      <edge id="20" source="Lin, WC" target="Tsai, CF" weight="11" />
+      <edge id="21" source="Ma, CC" target="Qiu, L" weight="9" />
+      <edge id="22" source="Nguyen, LTT" target="Nguyen, TDD" weight="9" />
+      <edge id="23" source="Nguyen, LTT" target="Vo, B" weight="19" />
+      <edge id="24" source="Nguyen, TDD" target="Vo, B" weight="9" />
+      <edge id="25" source="Shahabi, H" target="Shirzadi, A" weight="11" />
+      <edge id="26" source="Vo, B" target="Yun, U" weight="13" />
+    </edges>
+  </graph>
+</gexf>
